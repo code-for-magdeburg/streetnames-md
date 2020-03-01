@@ -1,3 +1,23 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+
+@JensWinter
+code-for-magdeburg
+/
+streetnames-md
+3
+00
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+streetnames-md/.gitignore
+@JensWinter JensWinter Initial commit
+fba6248 now
+104 lines (76 sloc)  1.57 KB
+
 # Logs
 logs
 *.log
@@ -102,3 +122,20 @@ dist
 
 # TernJS port file
 .tern-port
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
+.idea/
+
+/output/*
+!/**/.gitkeep

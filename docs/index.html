@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <title>Magdeburger Straßennamen</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+          integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+          crossorigin=""/>
+    <style>
+        html, body, #map {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        .leaflet-label {
+            font-weight: normal;
+        }
+
+        div.info {
+            width: 40em;
+            white-space: normal;
+        }
+
+        .legend {
+            margin: 3em;
+            border: 1px solid #555;
+            background-color: #eee;
+            padding: 1em;
+            border-radius: 6px;
+            -o-border-radius: 6px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            color: #555;
+            width: 22em;
+        }
+
+        .legend h1 {
+            margin-top: 0;
+            font-size: 120%;
+        }
+
+        .legend ul {
+            list-style: none;
+            padding: 0;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .legend ul li {
+            background-color: #e6e6e6;
+            margin: 0.25em 0.5em 0 0;;
+            padding: 0.1em 0.5em 0.1em 0.5em;
+            border-radius: 4px;
+            -o-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -webkit-border-radius: 4px;
+            border: 1px solid #aaa;
+            display: inline;
+            float: left;
+        }
+    </style>
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+            integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+            crossorigin=""></script>
+
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="jquery-3.4.1.min.js"></script>
+
+<script>
+    let TILES_URL = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+    let INITIAL_LOCATION = [52.1259661, 11.6418369];
+    let INITIAL_ZOOM = 12;
+    let ATTRIBUTION = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> ' +
+        'contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">' +
+        'CC-BY-SA</a>. Tiles &copy; <a href="http://cartodb.com/attributions">' +
+        'CartoDB</a>';
+    let WEIGHT = 5;
+    let OPACITY = 0.75;
+
+    let map;
+
+    function onEachFeature(feature, layer) {
+        let label = '<div><strong>' + feature.id + '</strong></div>';
+        if (feature.properties.gender === 'f') {
+            label += 'weiblich';
+        }
+        if (feature.properties.gender === 'm') {
+            label += 'männlich';
+        }
+        if (feature.properties.info) {
+            label += '<div class="info">' + feature.properties.info + '</div>';
+        }
+        layer.bindTooltip(label);
+    }
+
+    $(document).ready(function () {
+
+        let tiles = new L.TileLayer(TILES_URL, { attribution: ATTRIBUTION });
+        map = L.map('map').addLayer(tiles).setView(INITIAL_LOCATION, INITIAL_ZOOM);
+
+        $.getJSON('gender.json', function (json) {
+
+            let legendHTML = '<h1>Geschlechterverhältnisse Magdeburger Straßennamen</h1>' +
+                '<p>Ein Projekt des <a href="http://codefor.de/magdeburg">' +
+                'Open Knowledge Lab Magdeburg</a>. Inspiriert durch das <a href="http://codefor.de/karlsruhe">OK Lab Karlsruhe</a>. ' +
+                'Daten vom <a href="https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Statistik-Geodaten">' +
+                'Statistikamt der Stadt Magdeburg</a> und <a href="https://www.wikipedia.de/">Wikipedia</a>. ' +
+                '<a href="https://github.com/CodeforKarlsruhe/streetnames">Code</a> ' +
+                'auf GiHub.</p>';
+
+            legendHTML += '<ul>';
+            json.forEach(function (dataset) {
+                let style = { color: dataset['color'], weight: WEIGHT, opacity: OPACITY };
+                L.geoJson(dataset['features'], { style: style, onEachFeature: onEachFeature }).addTo(map);
+                legendHTML += '<li style="color:' + dataset['color'] + ';"/>' + dataset['label'] + ' (' + dataset['features'].length + ')</li>';
+            });
+            legendHTML += '</ul>';
+
+            let legend = L.control({ position: 'bottomright' });
+            legend.onAdd = function (m) {
+                let div = L.DomUtil.create('div', 'legend');
+                div.innerHTML = legendHTML;
+                return div;
+            };
+
+            legend.addTo(map);
+
+        });
+    });
+
+</script>
+
+</body>
+</html>

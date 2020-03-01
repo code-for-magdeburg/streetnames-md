@@ -1,0 +1,16 @@
+{
+  "name": "streetnames-md",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "geojson": "^0.5.0",
+    "osm-read": "^0.7.0"
+  }
+}
