@@ -75,12 +75,12 @@
 <script src="jquery-3.4.1.min.js"></script>
 
 <script>
-    let TILES_URL = 'http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+    let TILES_URL = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
     let INITIAL_LOCATION = [52.1259661, 11.6418369];
     let INITIAL_ZOOM = 12;
-    let ATTRIBUTION = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> ' +
-        'contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">' +
-        'CC-BY-SA</a>. Tiles &copy; <a href="http://cartodb.com/attributions">' +
+    let ATTRIBUTION = 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> ' +
+        'contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">' +
+        'CC-BY-SA</a>. Tiles &copy; <a href="https://cartodb.com/attributions">' +
         'CartoDB</a>';
     let WEIGHT = 5;
     let OPACITY = 0.75;
@@ -109,8 +109,8 @@
         $.getJSON('gender.json', function (json) {
 
             let legendHTML = '<h1>Geschlechterverhältnisse Magdeburger Straßennamen</h1>' +
-                '<p>Ein Projekt des <a href="http://codefor.de/magdeburg">' +
-                'Open Knowledge Lab Magdeburg</a>. Inspiriert durch das <a href="http://codefor.de/karlsruhe">OK Lab Karlsruhe</a>. ' +
+                '<p>Ein Projekt des <a href="https://codefor.de/magdeburg">' +
+                'Open Knowledge Lab Magdeburg</a>. Inspiriert durch das <a href="https://codefor.de/karlsruhe">OK Lab Karlsruhe</a>. ' +
                 'Daten vom <a href="https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Statistik-Geodaten">' +
                 'Statistikamt der Stadt Magdeburg</a> und <a href="https://www.wikipedia.de/">Wikipedia</a>. ' +
                 '<a href="https://github.com/code-for-magdeburg/streetnames-md">Code</a> ' +
