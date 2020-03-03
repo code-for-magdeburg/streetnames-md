@@ -24,18 +24,18 @@
             white-space: normal;
         }
 
-        .legend {
-            margin: 3em;
-            border: 1px solid #555;
-            background-color: #eee;
-            padding: 1em;
-            border-radius: 6px;
-            -o-border-radius: 6px;
-            -moz-border-radius: 6px;
-            -webkit-border-radius: 6px;
-            color: #555;
-            width: 22em;
-        }
+            .legend {
+                margin: 3em;
+                border: 1px solid #555;
+                background-color: #eee;
+                padding: 1em;
+                border-radius: 6px;
+                -o-border-radius: 6px;
+                -moz-border-radius: 6px;
+                -webkit-border-radius: 6px;
+                color: #555;
+                width: 22em;
+            }
 
         .legend h1 {
             margin-top: 0;
@@ -61,6 +61,17 @@
             display: inline;
             float: left;
         }
+
+        .logo {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            z-index: 400;
+        }
+
+        .logo img {
+            border: 1px solid #eee;
+        }
     </style>
 
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
@@ -71,6 +82,10 @@
 <body>
 
 <div id="map"></div>
+
+<div class="logo">
+    <a target="_blank" href="https://codefor.de/magdeburg"><img src="logo.png" alt="Code For Magdeburg"></a>
+</div>
 
 <script src="jquery-3.4.1.min.js"></script>
 
