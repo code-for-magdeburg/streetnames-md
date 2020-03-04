@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
           integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
           crossorigin=""/>
+
     <style>
         html, body, #map {
             height: 100%;
@@ -15,27 +16,18 @@
             margin: 0;
         }
 
-        .leaflet-label {
-            font-weight: normal;
+        .legend {
+            margin: 3em;
+            border: 1px solid #aaa;
+            background-color: #eee;
+            padding: 1em;
+            border-radius: 6px;
+            -o-border-radius: 6px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            color: #555;
+            width: 22em;
         }
-
-        div.info {
-            width: 40em;
-            white-space: normal;
-        }
-
-            .legend {
-                margin: 3em;
-                border: 1px solid #555;
-                background-color: #eee;
-                padding: 1em;
-                border-radius: 6px;
-                -o-border-radius: 6px;
-                -moz-border-radius: 6px;
-                -webkit-border-radius: 6px;
-                color: #555;
-                width: 22em;
-            }
 
         .legend h1 {
             margin-top: 0;
@@ -111,7 +103,7 @@
         if (feature.properties.info) {
             label += '<div class="info">' + feature.properties.info + '</div>';
         }
-        layer.bindTooltip(label);
+        layer.bindPopup(label);
     }
 
     let xhr = new XMLHttpRequest();
@@ -124,7 +116,7 @@
             let tiles = new L.TileLayer(TILES_URL, { attribution: ATTRIBUTION });
             map = L.map('map').addLayer(tiles).setView(INITIAL_LOCATION, INITIAL_ZOOM);
 
-            let legendHTML = '<h1>Geschlechterverhältnisse Magdeburger Straßennamen</h1>' +
+            let legendHTML = '<h1>Magdeburger Straßennamen</h1>' +
                 '<p>Ein Projekt des <a href="https://codefor.de/magdeburg">' +
                 'Open Knowledge Lab Magdeburg</a>. Inspiriert durch das <a href="https://codefor.de/karlsruhe">OK Lab Karlsruhe</a>. ' +
                 'Daten vom <a href="https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Statistik-Geodaten">' +
