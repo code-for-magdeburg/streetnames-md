@@ -18,6 +18,14 @@
             margin: 0;
         }
 
+        .info {
+            margin-top: 0.5em;
+        }
+
+        .reference {
+            margin-top: 0.5em;
+        }
+
         .legend {
             margin: 3em;
             border: 1px solid #aaa;
@@ -95,15 +103,19 @@
     let map;
 
     function onEachFeature(feature, layer) {
-        let label = '<div><strong>' + feature.id + '</strong></div>';
+        let label = '<div><strong>' + feature.id + '</strong>';
         if (feature.properties.gender === 'f') {
-            label += 'weiblich';
+            label += ' (w)';
         }
         if (feature.properties.gender === 'm') {
-            label += 'männlich';
+            label += ' (m)';
         }
-        if (feature.properties.info) {
-            label += '<div class="info">' + feature.properties.info + '</div>';
+        label += '</div>';
+        if (feature.properties.information) {
+            label += '<div class="info">' + feature.properties.information + '</div>';
+        }
+        if (feature.properties.refUrl && feature.properties.refLabel) {
+            label += '<div class="reference">Quelle: <a href="' + feature.properties.refUrl + '" target="_blank">' + feature.properties.refLabel +'</a></div>'
         }
         layer.bindPopup(label);
     }

@@ -13,9 +13,12 @@ fs.createReadStream('./names-magdeburg.csv')
 
         streets.features.forEach(feature => {
             const streetname = streetnames.find(s => s.Name === feature.properties.name);
-            if (streetname && streetname.Name && streetname.Zuordnung) {
+            if (streetname && streetname.Name && (streetname.Gender === 'f' || streetname.Gender === 'm')) {
                 feature.id = streetname.Name;
-                feature.properties['gender'] = streetname.Zuordnung;
+                feature.properties['gender'] = streetname.Gender;
+                feature.properties['information'] = streetname.Information;
+                feature.properties['refUrl'] = streetname.RefUrl;
+                feature.properties['refLabel'] = streetname.RefLabel;
             } else {
                 console.log('Nicht gefunden: ' + feature.properties.name);
             }
