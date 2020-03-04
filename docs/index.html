@@ -90,7 +90,7 @@
 <script>
     let TILES_URL = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
     let INITIAL_LOCATION = [52.1259661, 11.6418369];
-    let INITIAL_ZOOM = 12;
+    let INITIAL_ZOOM = 13;
     let ATTRIBUTION = 'Map data &copy; <a href="https://openstreetmap.org">OpenStreetMap</a> ' +
         'contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">' +
         'CC-BY-SA</a>. Tiles &copy; <a href="https://cartodb.com/attributions">' +
@@ -121,8 +121,8 @@
 
             const json = JSON.parse(xhr.responseText);
 
-        let tiles = new L.TileLayer(TILES_URL, { attribution: ATTRIBUTION });
-        map = L.map('map').addLayer(tiles).setView(INITIAL_LOCATION, INITIAL_ZOOM);
+            let tiles = new L.TileLayer(TILES_URL, { attribution: ATTRIBUTION });
+            map = L.map('map').addLayer(tiles).setView(INITIAL_LOCATION, INITIAL_ZOOM);
 
             let legendHTML = '<h1>Geschlechterverhältnisse Magdeburger Straßennamen</h1>' +
                 '<p>Ein Projekt des <a href="https://codefor.de/magdeburg">' +
