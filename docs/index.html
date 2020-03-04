@@ -87,8 +87,6 @@
     <a target="_blank" href="https://codefor.de/magdeburg"><img src="logo.png" alt="Code For Magdeburg"></a>
 </div>
 
-<script src="jquery-3.4.1.min.js"></script>
-
 <script>
     let TILES_URL = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
     let INITIAL_LOCATION = [52.1259661, 11.6418369];
@@ -116,12 +114,15 @@
         layer.bindTooltip(label);
     }
 
-    $(document).ready(function () {
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', 'gender.json');
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+
+            const json = JSON.parse(xhr.responseText);
 
         let tiles = new L.TileLayer(TILES_URL, { attribution: ATTRIBUTION });
         map = L.map('map').addLayer(tiles).setView(INITIAL_LOCATION, INITIAL_ZOOM);
-
-        $.getJSON('gender.json', function (json) {
 
             let legendHTML = '<h1>Geschlechterverhältnisse Magdeburger Straßennamen</h1>' +
                 '<p>Ein Projekt des <a href="https://codefor.de/magdeburg">' +
@@ -148,8 +149,9 @@
 
             legend.addTo(map);
 
-        });
-    });
+        }
+    };
+    xhr.send();
 
 </script>
 
