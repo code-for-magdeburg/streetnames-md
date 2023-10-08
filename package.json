@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parser": "^2.3.2",
+    "csv-parser": "^3.0.0",
     "geojson": "^0.5.0",
     "osm-read": "^0.7.0"
   }
