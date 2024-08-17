@@ -1,0 +1,1762 @@
+Str:-Nr.;Straßenname
+00005;Abendstraße
+00010;Ackendorfer Straße
+00015;Ackerstraße
+00020;Adelheidring
+00025;Adolf-Jentzen-Straße
+00030;Adolfstraße
+00035;Agneswerder
+00040;Agnetenstraße
+00045;Agrarstraße
+00050;Ahornweg
+00055;Akazienstraße
+00060;Akener Weg
+00065;Albert-Dankert-Straße
+00070;Springe
+00075;Bauhausstraße
+00080;Albert-Schweitzer-Straße
+00085;Albert-Vater-Straße
+00090;Albrecht-Thaer-Straße
+00095;Alemannstraße
+00100;Alexander-Puschkin-Straße
+00105;Alexanderstraße
+00110;Alt Benneckenbeck
+00115;Alt Diesdorf
+00120;Altes Fischerufer
+00125;Alter Markt
+00130;Alt Fermersleben
+00135;Altmärker Privatstraße
+00140;Alt Ottersleben
+00145;Alt Prester
+00150;Alt Salbke
+00155;Alt Westerhüsen
+00160;Alwin-Brandes-Straße
+00165;Am Akazienbusch
+00170;Am Alten Theater
+00175;Am Alten Turm
+00180;Am Biederitzer Busch
+00185;Am Brellin
+00190;Am Busch
+00195;Ambrosiusplatz
+00200;Am Brunnen
+00205;Am Buckauer Tor
+00210;Am Buttersteig
+00215;Am Charlottentor
+00220;Am Cracauer Tor
+00225;Am Deichfeld
+00230;Am Deichwall
+00235;Am Denkmal
+00240;Am Dom
+00245;Am Dorfteich
+00250;Am Eulegraben
+00255;Am Fischertor
+00260;Am Freiheitsplatz
+00265;Am Freihof
+00270;Am Fuchsberg
+00275;Am Hammelberg
+00280;Am Hammelberg Weg 1
+00285;Am Hammelberg Weg 2
+00290;Am Holländer
+00295;Am Hopfengarten
+00300;Am Hügel
+00305;Am Hünenkeller
+00315;Am Kiebitzpfuhl
+00320;Am Kleinen Silberberg
+00325;Am Klosterfeld
+00330;Am Krähenberg
+00335;Am Krökentor
+00340;Am Krug
+00345;Am Kuhanger
+00350;Ammensleber Straße
+00355;Am Mühlberg
+00360;Am Mühlenfeld
+00365;Am Neuber
+00370;Am Neustädter Feld
+00375;Am Nordenfeld
+00380;Am Pfändetor
+00385;Ampfurther Weg
+00390;Am Polderdeich Seitenweg
+00395;Am Polderdeich
+00400;Am Rosenbusch
+00405;Am Schäferbrunnen
+00410;Schöppensteg
+00415;Am Schroteanger
+00420;Am Schweineanger
+00425;Amsdorfstraße
+00430;Am Seeufer
+00435;Amselsteg
+00440;Am Spionskopf
+00445;Am Sportplatz
+00450;Am Sudenburger Bahnhof
+00455;Am Sudenburger Tor
+00460;Am Stadtblick
+00465;Am Teich
+00470;Am Thie
+00475;Amtsgartenstraße
+00480;Am Unterbär
+00485;Am Vogelgesang
+00490;Am Volkspark
+00495;Am Vorhorn
+00505;Am Weinhof
+00510;Am Wellenberge
+00515;Am Winterhafen
+00520;Am Wolfswerder
+00525;An den Röthen
+00530;An den Sohlener Bergen
+00535;An der Elbe
+00540;An der Kälberweide
+00545;An der Lake
+00550;An der Quelle
+00555;An der Steinkuhle
+00560;An der Waldschule
+00565;Anger-Privatweg
+00570;Anhaltstraße
+00575;Ankerstraße
+00580;Annastraße
+00585;Ansbacher Straße
+00590;Anstaltstraße
+00595;Appendorfer Straße
+00600;Arkonastraße
+00605;Arndtstraße
+00610;Arnold-Knoblauch-Straße
+00615;Arnold-Zweig-Straße
+00620;Rathmannstraße
+00625;Aschersleber Straße
+00635;Aßmannstraße
+00640;Asternweg
+00645;Aue
+00650;Fürstenwall
+00655;August-Bebel-Damm
+00660;Azaleenweg
+00665;Babelsberger Straße
+00670;Bäckerstraße
+00675;Backhausstraße
+00680;Badeleber Straße
+00685;Badestraße
+00690;Badeteichstraße
+00695;Bahnhofstraße
+00700;Bahnikstraße
+00710;Bahnstraße
+00715;Bahrendorfer Straße
+00720;Bakestraße
+00725;Ballenstedter Straße
+00730;Bandwirkerstraße
+00735;Barbyer Weg
+00740;Barlachstraße
+00745;Barleber Chaussee
+00755;Bärstraße
+00765;Bassermannstraße
+00770;Basedowstraße
+00775;Bauernstraße
+00780;Bauernwerder
+00785;Baumschulenweg
+00790;Bebelstraße
+00795;Bebertaler Straße
+00800;Beethovenstraße
+00805;Behringstraße
+00810;Bei der Hauptwache
+00815;Beimsplatz
+00820;Beimsstraße
+00825;Bekassinenweg
+00830;Belsdorfer Weg
+00835;Benediktinerstraße
+00840;Benneckenbecker Straße
+00845;Bennigsenstraße
+00850;Bergstraße
+00855;Berliner Chaussee
+00860;Bernburger Straße
+00865;Bernhard-Bästlein-Straße
+00870;Bernhard-Kellermann-Straße
+00875;Bertha-von-Suttner-Straße
+00880;Bertinger Weg
+00885;Bertolt-Brecht-Straße
+00890;Bethanienstraße
+00895;Beyendorfer Kirchweg
+00900;Beyendorfer Straße
+00905;Beyendorfer Weg
+00910;Biberweg
+00915;Biederitzer Weg
+00920;Bienenweg
+00925;Binsenbreite-Privatweg
+00930;Birkenallee
+00940;Birkenweg
+00945;Birkhahnweg
+00950;Birkholzer Weg
+00955;Birkenweiler 1.Gartenweg
+00960;Birkenweiler 2.Gartenweg
+00965;Birkenweiler 3.Gartenweg
+00970;Birkenweiler 4.Gartenweg
+00975;Birkenweiler 5.Gartenweg
+00980;Birkenweiler 6.Gartenweg
+00985;Birkenweiler 7.Gartenweg
+00990;Birkenweiler 8.Gartenweg
+00995;Birkenweiler 9.Gartenweg
+01000;Birnenweg
+01005;Bittkauer Weg
+01010;Blankenburger Straße
+01015;Blauebeilstraße
+01020;Blechenweg
+01025;Bleckenburgstraße
+01030;Bleichenweg
+01035;Blumenberger Straße
+01040;Blumenstraße
+01045;Blütengasse
+01050;Bodestraße
+01055;Bödikerstraße
+01060;Bölschestraße
+01065;Boquet-Graseweg
+01070;Bördebogen
+01075;Bördestraße
+01080;Bornstedter Weg
+01085;Brandenburger Straße
+01090;Brändströmweg
+01095;Brandtstraße
+01100;Brassenweg
+01105;Brauereistraße
+01110;Braunlager Straße
+01115;Braunschweiger Straße
+01120;Braunsfelde
+01125;Breiter Weg
+01130;Breitscheidstraße
+01135;Bremer Straße
+01140;Brenneckestraße
+01145;Brombeerweg
+01150;Brückenbreite
+01155;Brückstraße
+01160;Brüderstraße
+01165;Brueghelweg
+01170;Brunnerstraße
+01175;Bruno-Beye-Ring
+01180;Albrechtstraße
+01185;Bruno-Taut-Ring
+01190;Bruno-Wille-Straße
+01195;Buchenweg
+01200;Büchnerstraße
+01205;Buckauer Straße
+01210;Bundschuhstraße
+01215;Bunsenstraße
+01220;Bunter Weg
+01225;Burchardstraße
+01230;Bürgelstraße
+01235;Burgkmairweg
+01240;Burgstaller Weg
+01245;Burgstraße
+01250;Buschbreite
+01255;Buschfeldstraße
+01260;Bussardweg
+01265;Calbische Straße
+01270;Calvörder Straße
+01275;Camersdorfer Straße
+01280;Carl-Miller-Straße
+01285;Caspar-David-Friedrich-Weg
+01290;Charlottenstraße
+01295;Cochstedter Straße
+01300;Colbitzer Straße
+01305;Comeniusstraße
+01310;Coquistraße
+01315;Coswiger Straße
+01325;Curiestraße
+01330;Dachsbreite
+01335;Dahlienweg
+01340;Damaschkeplatz
+01345;Damaschkeweg
+01350;Dannefelder Straße
+01355;Danzstraße
+01360;Deichweg
+01365;Denekestraße
+01370;Denhardtstraße
+01375;Dequeder Straße
+01380;Derenburger Weg
+01385;Dessauer Straße
+01390;Die Fahrt
+01395;Diesdorfer Graseweg
+01400;Diesdorfer Privatweg
+01405;Diesdorfer Wuhne
+01410;Diesterwegstraße
+01415;Dietrichstraße
+01420;Dodendorfer Platz
+01425;Dodendorfer Straße
+01430;Döllweg
+01435;Domersleber Weg
+01440;Domplatz
+01445;Lothar-Kreyssig-Straße
+01450;Dorfstraße
+01455;Dornburger Weg
+01460;Dorotheenstraße
+01465;Drackenstedter Weg
+01470;Draisweg
+01475;Dräseckeplatz
+01480;Dreibrückenstraße
+01485;Dreileber Weg
+01490;Drews-Privatweg
+01495;Dr.-Grosz-Straße
+01500;Drosselsteig
+01505;Drübecker Weg
+01510;Druxberger Weg
+01515;Düppler Mühlenstraße
+01520;Dürerstraße
+01525;Ebel-Privatweg
+01530;Ebendorfer Chaussee
+01535;Ebendorfer Straße
+01540;Eckernförder Straße
+01545;Oberer Sülzeweg
+01550;Editharing
+01555;Egelner Straße
+01560;Eggersdorfer Straße
+01565;Ehlegrund
+01570;Eichendorffstraße
+01575;Eichenweg
+01580;Eickendorfer Straße
+01585;Eigene Scholle
+01590;Einsteinstraße
+01595;Eisenacher Straße
+01600;Eisleber Straße
+01605;Eisnerstraße
+01610;Elbenauer Straße
+01615;Elbeuer Straße
+01620;Elbstraße
+01625;Elbweg
+01630;Elisenstraße
+01635;Elmer Straße
+01640;Elsterweg
+01645;Emanuel-Larisch-Weg
+01650;Emdener Weg
+01655;Emilien-Privatweg
+01660;Endelstraße
+01665;Engel-Privatweg
+01670;Erfurter Straße
+01675;Erich-Mühsam-Straße
+01680;Wisninger Straße
+01685;Erich-Weinert-Straße
+01690;Erlenweg
+01695;Rudolf-Wolf-Straße
+01700;Ernst-Lehmann-Straße
+01705;Ernst-Toller-Straße
+01710;Ernst-Wille-Straße
+01715;Erpitzer Straße
+01720;Erxleber Straße
+01725;Erzbergerstraße
+01730;Eschenröder Straße
+01735;Eschenweg
+01740;Eulespring
+01745;Faberstraße
+01750;Faber-Privatweg
+01755;Fabrikenstraße
+01760;Fährstraße
+01765;Falkenbergstraße
+01770;Falkenweg
+01775;Fallersleber Straße
+01780;Falterstieg
+01790;Farnkrautbreite
+01795;Farsleber Straße
+01800;Fasanenstraße
+01805;Faßlochsberg
+01810;Faulmannstraße
+01815;Feierabend-Privatweg
+01820;Feldstraße
+01825;Felgeleber Straße
+01830;Felsenbergstraße
+01835;Ferchlander Weg
+01840;Ferdinand-Schrey-Straße
+01845;Ferdinand-von-Schill-Straße
+01850;Fermersleber Weg
+01855;Feuerbachstraße
+01860;Fichtestraße
+01865;Finkensteig
+01870;Fischer-Privatweg
+01875;Flachsbreite
+01880;Flechtinger Straße
+01885;Flensburger Straße
+01890;Fliedergrund
+01895;Fliederweg
+01900;Florian-Geyer-Straße
+01905;Förderstedter Straße
+01910;Forellenweg
+01915;Försterstraße
+01920;Forsthausstraße
+01925;Franckestraße
+01930;Frankefelde
+01935;Silberschlagstraße
+01940;Frans-Hals-Weg
+01945;Christian-Peicke-Straße
+01950;Fraunhoferplatz
+01955;Freie Straße
+01965;Freiherr-vom-Stein-Straße
+01970;Freiligrathstraße
+01975;Freundschaftsweg
+01980;Friedensplatz
+01985;Friedenstraße
+01990;Friedhofstraße
+02000;Friedhofsweg
+02005;Friedrich-Aue-Straße
+02010;Friedrich-Ebert-Straße
+02015;Friedrich-Engels-Straße
+02020;Friedrich-List-Straße
+02025;Friedrich-Naumann-Straße
+02030;Friesenstraße
+02035;Frischauf-Privatweg
+02040;Fritz-Hahn-Straße
+02045;Lassallestraße
+02050;Grusonstraße
+02055;Fritz-Maenicke-Straße
+02060;Fröbelstraße
+02065;Froese-Privatweg
+02070;Froser Straße
+02075;Furtlake-Privatweg
+02080;Gabelsbergerstraße
+02085;Gaertnerstraße
+02090;Gagernstraße
+02095;Ganghoferstraße
+02100;Gardeleger Straße
+02105;Gareisstraße
+02110;Garke-Privatweg
+02115;Gartenheimweg
+02125;Gartenstraße
+02130;Gartenweg
+02135;Gasereistraße
+02140;Gaußstraße
+02145;Geißlerstraße
+02150;Gellertstraße
+02155;Genossenschaftsweg
+02160;Genthiner Straße
+02165;Georg-Heidler-Straße
+02170;Georg-Kaiser-Straße
+02180;Steinbockstraße
+02185;Hugenottenstraße
+02190;Georg-Singer-Straße
+02195;Geraer Straße
+02200;Gerhart-Hauptmann-Straße
+02205;Gernröder Straße
+02210;Gersdorfer Weg
+02215;Gersdorfer Straße
+02220;Eichplatz
+02225;Gerstengrund
+02230;Gleimweg
+02235;Glindenberger Weg
+02240;Gnadauer Straße
+02245;Gneisenauring
+02250;Goethestraße
+02255;Goldammerweg
+02260;Goldschmidtring
+02265;Goslarer Straße
+02270;Gothaer Straße
+02275;Gouvernementsberg
+02280;Grabbestraße
+02285;Graffweg
+02290;Graubestraße
+02295;Greifenhagener Straße
+02300;Grenzweg
+02305;Griesemann-Privatweg
+02310;Grillenstieg
+02315;Grimm-Privatweg
+02320;Gröninger Straße
+02325;Gröperstraße
+02330;Große Diesdorfer Straße
+02335;Große Klosterstraße
+02340;Große Münzstraße
+02345;Großer Gang
+02350;Großer Kannenstieg
+02355;Großer Hof
+02360;Große Schulgasse
+02365;Große Steinernetischstraße
+02370;Große Weinhofstraße
+02375;Grüne Gasse
+02380;Grünewaldweg
+02385;Grünstraße
+02390;Gübser Damm
+02395;Gübser Weg
+02400;Gustav-Adolf-Straße
+02405;Budenbergstraße
+02410;Güstener Straße
+02415;Gutenbergstraße
+02420;GutsMuthsweg
+02425;Habichtweg
+02430;Hadmersleber Straße
+02435;Haeckelstraße
+02440;Hafenstraße
+02445;Haferbreite
+02450;Hagebuttenweg
+02455;Hagedornstraße
+02460;Hahnemannstraße
+02465;Hakenstedter Weg
+02470;Halberstädter Chaussee
+02475;Halberstädter Straße
+02480;Haldensleber Straße
+02485;Hallische Straße
+02490;Hamburger Straße
+02495;Hammersteinweg
+02500;Hamsterbreite
+02505;Hängelsbreite
+02510;Hannoversche Straße
+02515;Hanns-Eisler-Platz
+02520;Hansastraße
+02525;Hans-Behrendt-Weg
+02530;Ulnerstraße
+02535;Hans-Grade-Straße
+02540;Hans-Grundig-Straße
+02545;Galileostraße
+02550;Resewitzstraße
+02555;Hans-Löscher-Straße
+02560;Schäfferstraße
+02565;Harbker Straße
+02570;Hardenbergstraße
+02575;Harnackstraße
+02580;Harro-Schulze-Boysen-Straße
+02585;Harsdorfer Berg
+02590;Harsdorfer Platz
+02595;Harsdorfer Straße
+02600;Harsdorfer Worthen
+02605;Hartstraße
+02610;Harzburger Straße
+02615;Hasenbreite
+02620;Hasselbachplatz
+02625;Hasselbachstraße
+02630;Hauffstraße
+02635;Havelstraße
+02640;Haverlaher Straße
+02645;Haydnplatz
+02650;Hebbelstraße
+02655;Heckenweg
+02660;Hecklinger Straße
+02665;Hegelstraße
+02670;Hegewiesenweg
+02675;Heidestraße
+02680;Heideweg
+02685;Heimat-Privatstraße
+02690;Heimweg
+02695;Hugo-Junkers-Allee
+02700;Heinrich-Heine-Platz
+02705;Heinrich-Heine-Weg
+02710;Heinrichplatz
+02715;Heinrichsberger Privatweg
+02720;Heinrichsberger Straße
+02725;Heinrichstraße
+02730;Heinrich-Wunderling-Straße
+02735;Heinrich-Zille-Straße
+02740;Heinz-Sommer-Weg
+02745;Helene-Weigel-Straße
+02750;Hellestraße
+02755;Helmholtzstraße
+02760;Helmstedter Chaussee
+02765;Helmstedter Straße
+02770;Hemsdorfer Straße
+02775;Herbartstraße
+02780;Herbert-Landwehr-Straße
+02785;Herderstraße
+02790;Hermann-Bruse-Platz
+02795;Am Fort
+02800;Hermann-Löns-Straße
+02805;Hermannstraße
+02810;Hermelinweg
+02815;Herrenkrug
+02820;Herrenkrugstraße
+02825;Hertzstraße
+02830;Herweghstraße
+02835;Hesekielstraße
+02840;Heydeckstraße
+02845;Heyneckes Garten
+02850;Hillersleber Straße
+02855;Hilligerstraße
+02860;Himmelreichstraße
+02865;Hinter den Holzstrecken
+02870;Hirschbreite
+02875;Hirtenstraße
+02880;Hoffnung-Privatweg
+02885;Hohefeld-Privatweg
+02890;Hohe Leuchte
+02895;Hohendodeleber Straße
+02900;Hohendodeleber Weg
+02905;Hohenstaufenring
+02910;Hohenwarther Straße
+02915;Hohepfortestraße
+02925;Hohes Feld
+02930;Hohestieg
+02935;Hohe Straße
+02940;Hoheuferstraße
+02945;Hohlweg
+02950;Holbeinstraße
+02955;Hollehochstraße
+02960;Holsteiner Straße
+02965;Holunderweg
+02975;Holzweg
+02980;An der Wanzleber Chaussee
+02985;Hopfenbreite
+02990;Hopfenplatz
+02995;Hospitalstraße
+03000;Hosse-Privatweg
+03005;Hötensleber Straße
+03010;Hubertusstraße
+03015;Thietmarstraße
+03020;Hugo-Vogel-Straße
+03025;Humboldtstraße
+03030;Hummelweg
+03035;Hundisburger Straße
+03040;Husumer Straße
+03045;Huttenstraße
+03050;Igelweg
+03055;Ilmenauer Straße
+03060;Ilsenburger Straße
+03065;Ilsestraße
+03070;Iltisweg
+03075;Im Brunnenhof
+03080;Im Brückfeld
+03085;Im Busch
+03090;Im Felde
+03095;Im Gänseei
+03100;Im Grünen
+03105;Im Kräuterwinkel
+03110;Immermannstraße
+03115;Im Mittelfelde
+03120;Im Rennegarten
+03125;Im Rosenwinkel
+03130;Im Sauerfeld
+03135;Im Siek
+03140;Im Steingewände
+03145;Im Winkel
+03150;In den Gehren
+03155;In den Meerwellen
+03160;In den Worthen
+03165;In der Mittelwiese
+03170;In der Rönnepöhle
+03175;In der Spitzbreite
+03180;Industriestraße
+03185;Innsbrucker Straße
+03190;Inselstraße
+03195;Insleber Straße
+03200;Irenenplatz
+03205;Irxleber Straße
+03210;Jahnring
+03220;Jahnstraße
+03225;Jakobstraße
+03230;Jakob-Wassermann-Straße
+03235;Jean-Burger-Straße
+03240;Jenaer Straße
+03245;Jerichower Straße
+03250;Jersleber Straße
+03255;Johannes-Göderitz-Straße
+03260;Johannes-Kirsch-Straße
+03265;Johannes-Münze-Straße
+03270;Johannes-R.-Becher-Straße
+03275;Johannes-Schlaf-Straße
+03280;Johannisbergstraße
+03285;Jordanstraße
+03290;Klinkebachstraße
+03295;Julius-Bremer-Straße
+03300;Crucigerstraße
+03305;Juliusstraße
+03310;Jupiterweg
+03315;Juri-Gagarin-Straße
+03320;Käferweg
+03325;Kahnstraße
+03330;Kaiser-Otto-Ring
+03335;Kalenberger Straße
+03340;Kamillenweg
+03345;Kannenstieg
+03350;Kantstraße
+03355;Kapellenstraße
+03360;Karauschenweg
+03365;Karl-Kühn-Weg
+03370;Karl-Liebknecht-Platz
+03375;Straße A
+03380;Straße B
+03385;Straße C
+03390;Straße D
+03395;Straße E
+03400;Straße F
+03405;Straße G
+03410;Straße H
+03415;Karl-Schmidt-Straße
+03420;Karl-Schurz-Straße
+03425;Karlstraße
+03430;Lebersdorfer Straße
+03435;Karnipstraße
+03440;Karpenlake
+03445;Karpfenweg
+03450;Kastanienstraße
+03455;Katerstieg
+03460;Käthe-Kollwitz-Straße
+03465;Katzensprung
+03470;Kehnerter Weg
+03475;Keplerstraße
+03480;Ketzerstraße
+03485;Kiefernweg
+03490;Kieler Straße
+03495;Kirchhofstraße
+03500;Kirchstraße
+03505;Kirschweg
+03510;Kischstraße
+03515;Klausenerstraße
+03520;Kleeweg
+03525;Kleiberweg
+03530;Kleine Lindenallee
+03535;Kleine Münzstraße
+03540;Kleiner Gang
+03545;Kleiner Stadtmarsch
+03550;Kleiner Werder
+03555;Kleine Schulgasse
+03560;Kleine Schulstraße
+03565;Kleine Steinwiese
+03570;Kleine Steinwiese 1.Gartenweg
+03575;Kleine Steinwiese 2.Gartenweg
+03580;Kleine Steinwiese 3.Gartenweg
+03585;Kleine Steinwiese 4.Gartenweg
+03590;Kleine Steinwiese 5.Gartenweg
+03595;Kleine Straße
+03600;Kleiststraße
+03605;Klewitzstraße
+03610;Klopstockstraße
+03615;Klosterberge-Privatweg
+03620;Klosterbergestraße
+03625;Klosterfelde
+03630;Klostergraben
+03635;Klosterhof
+03640;Klosterhufe
+03645;Klosterkamp
+03650;Klosterwuhne
+03655;Klusdamm
+03660;Klusdamm-Privatweg
+03665;Klusweg
+03670;Koburger Straße
+03675;Kolibriweg
+03680;Kölner Platz
+03685;Kometenweg
+03690;Königswerder
+03695;Kopfendenweg
+03700;Koppelanger
+03705;Korbwerder
+03710;Körnerstraße
+03715;Koskastraße
+03720;Kosmonautenweg
+03725;Köthener Straße
+03730;Krähenstieg
+03735;Kranichweg
+03740;Kreipestraße
+03745;Kretschmannstraße
+03750;Kreuzbreite
+03755;Kreuzgangstraße
+03760;Kreuzhorststraße
+03765;Kroatenweg
+03770;Kroatenwuhne
+03775;Kroppenstedter Straße
+03780;Krügerbrücke
+03785;Krugstraße
+03790;Krumme Gasse
+03795;Krumme Straße
+03800;Kuckhoffplatz
+03805;Kuckuckweg
+03810;Küferstraße
+03815;Kühleweinstraße
+03820;Kulk-Privatweg
+03825;Kümmelsberg
+03830;Kurze Gasse
+03835;Kurzeschlag-Privatweg
+03840;Kurze Straße
+03845;Kutscherstraße
+03850;Kutzstraße
+03855;Kyffhäuserstraße
+03860;Laaßstraße
+03865;Ladeburger Weg
+03870;Landwüststraße
+03875;Langefelder Weg
+03880;Lange Lake
+03885;Langensteiner Weg
+03890;Langenweddinger Straße
+03895;Langer Schlag
+03900;Langer Weg
+03905;Lärchenstraße
+03910;Lauben-Privatweg
+03915;Lauestraße
+03920;Leibnizstraße
+03925;Leipziger Chaussee
+03930;Leipziger Straße
+03935;Leiterstraße
+03940;Leitzkauer Weg
+03945;Lemsdorfer Weg
+03950;Lenaustraße
+03955;Lennéstraße
+03960;Leopoldshaller Straße
+03965;Lerchenhain-Privatweg
+03970;Lerchenwuhne
+03980;Lessingstraße
+03985;Letzlinger Straße
+03990;Leuschnerstraße
+03995;Libellenweg
+04000;Liebermannstraße
+04005;Liebigstraße
+04010;Liebknechtstraße
+04015;Lienhardstraße
+04020;Liliencronstraße
+04025;Lilienweg
+04030;Lindenplan
+04035;Lindenstraße
+04040;Lindhorster Straße
+04045;Lindstedter Weg
+04050;Lingnerstraße
+04055;Lion-Feuchtwanger-Straße
+04060;Listemannstraße
+04065;Loburger Weg
+04070;Loitscher Weg
+04075;Lorenzlust
+04080;Lorenzweg
+04085;Lostauer Straße
+04090;Louis-Braille-Straße
+04095;Lübecker Privatweg
+04100;Lübecker Straße
+04105;Lucas-Cranach-Straße
+04110;Lückestraße
+04115;Luisenthaler Straße
+04120;Lumumbastraße
+04125;Lüneburger Straße
+04130;Lunochodstraße
+04135;Lutherstraße
+04140;Lüttgen-Ottersleben
+04145;Lüttgen-Salbker Weg
+04150;Luxemburgstraße
+04160;Magdeburger Ring
+04165;Magdeburger Straße
+04170;Mahrenholtzstraße
+04175;Maienhof
+04180;Fritz-Reuter-Straße
+04185;Mansfelder Straße
+04190;Marderweg
+04195;Margarethenstraße
+04200;Margeritenweg
+04205;Rollestraße
+04210;Mariannenstraße
+04215;Marienborner Straße
+04220;Marienstraße
+04225;Markgrafenstraße
+04230;Marschweg
+04235;Marsweg
+04240;Fabriciusstraße
+04245;Martin-Andersen-Nexö-Straße
+04250;Martin-Gallus-Weg
+04255;Martinstraße
+04260;Materlikstraße
+04265;Matthissonstraße
+04270;Maulbeerweg
+04275;Maxim-Gorki-Straße
+04280;Max-Josef-Metzger-Straße
+04285;Max-Otten-Straße
+04290;Maybachstraße
+04295;Mehringstraße
+04300;Meisenstieg
+04305;Meitzendorfer Straße
+04310;Melanchthonstraße
+04315;Mellinstraße
+04320;Menzer Straße
+04325;Merkurweg
+04330;Merseburger Straße
+04335;Mertensstraße
+04340;Meseberger Weg
+04345;Meyendorfer Weg
+04350;Milchstraße
+04355;Milchweg
+04360;Mittagstraße
+04365;Mittelstraße
+04370;Mittelweg
+04375;Mohnweg
+04380;Moldenstraße
+04385;Morgenrot-Privatweg
+04390;Morgenstraße
+04395;Mörikestraße
+04400;Moritzplatz
+04405;Moritzstraße
+04410;Moselstraße
+04415;Motzstraße
+04420;Mozartstraße
+04425;Mühlberg
+04430;Mühlenstraße
+04435;Mühlhauser Straße
+04440;Mühlinger Straße
+04445;Mühlweg
+04450;Müllergasse
+04455;Münchenhofstraße
+04460;Nachtigallenweg
+04465;Nachtigallenstieg
+04470;Nachtweide
+04475;Nahrstedter Weg
+04480;Narzissenweg
+04485;Nedlitzer Straße
+04490;Neinstedter Straße
+04495;Nelkenweg
+04500;Nelkenwinkel
+04505;Neptunweg
+04510;Nerzweg
+04515;Nesselpfad
+04520;Netzfeld
+04525;Neuenhofer Straße
+04530;Neuer Sülzeweg
+04540;Neuer Renneweg
+04545;Neue Siedlung
+04550;Neue Straße
+04555;Neustädter Bierweg
+04560;Neustädter Straße
+04565;Nicolaiplatz
+04570;Nicolaistraße
+04575;Niederndodeleber Straße
+04580;Niegripper Straße
+04585;Niemeyerweg
+04590;Niemöller-Privatweg
+04595;Nienburger Straße
+04600;Niendorfer Gartenweg
+04605;Niendorfer Straße
+04610;Nitzschkestraße
+04615;Nonnenwerder
+04620;Norbertstraße
+04625;Nordhäuser Straße
+04630;Nordstraße
+04635;Oberer Hohenwarsleber Weg
+04640;Oebisfelder Straße
+04645;Offleber Straße
+04650;Ohrestraße
+04655;Okerstraße
+04660;Oldenburger Straße
+04665;Olvenstedter Chaussee
+04670;Olvenstedter Graseweg
+04675;Olvenstedter Platz
+04680;Olvenstedter Scheid
+04685;Olvenstedter Straße
+04690;Orchideenweg
+04695;Oschersleber Straße
+04700;Osolfstraße
+04705;Ostendorfer Straße
+04710;Osterburger Privatweg
+04715;Osterburger Straße
+04720;Ostwaldstraße
+04725;Osterweddinger Chaussee
+04730;Osterweddinger Straße
+04735;Ostrowskistraße
+04740;Oststraße
+04745;Ottenbergstraße
+04750;Otternweg
+04755;Ottersleber Chaussee
+04760;Ottersleber Straße
+04765;Otto-Baer-Straße
+04770;Hermann-Hesse-Straße
+04780;Otto-Nagel-Straße
+04785;Otto-Richter-Straße
+04790;Otto-von-Guericke-Straße
+04795;Pablo-Neruda-Straße
+04800;Pablo-Picasso-Straße
+04805;Papenburg-Privatweg
+04810;Papengang
+04815;Pappelallee
+04820;Paracelsusstraße
+04825;Pareyer Weg
+04830;Parzellenweg
+04835;Neustädter Platz
+04840;Paul-Schreiber-Straße
+04845;Pechauer Platz
+04850;Pechauer Straße
+04855;Pestalozzistraße
+04860;Peter-Paul-Straße
+04865;Peterstraße
+04870;Petriförder
+04875;Pettenkoferstraße
+04880;Pfälzer Platz
+04885;Pfälzer Straße
+04890;Pfauenweg
+04895;Pfeifferstraße
+04900;Kritzmannstraße
+04905;Königstraße
+04910;Philipp-Palm-Weg
+04915;Planckstraße
+04920;Planetenweg
+04925;Plutoweg
+04930;Porse-Privatweg
+04935;Porsestraße
+04940;Poststraße
+04945;Potsdamer Straße
+04950;Präsident-Friese-Weg
+04955;Prester Privatweg
+04960;Pretziener Weg
+04965;Puppendorfer Privatweg
+04970;Puppendorfer Weg
+04975;Quedlinburger Straße
+04980;Quenstedter Straße
+04985;Querstraße
+04990;Quittenweg
+04995;Rabenweg
+05000;Raguhner Straße
+05005;Raiffeisenstraße
+05010;Randauer Straße
+05015;Ranieser Weg
+05020;Rapsbreite
+05025;Ratswaageplatz
+05030;Ravensbergstraße
+05035;Rebenweg
+05040;Rebhuhnweg
+05045;Regierungsstraße
+05050;Reichelstraße
+05055;Reichweinstraße
+05060;Reihersteg
+05065;Reimarusweg
+05070;Martin-Agricola-Straße
+05075;Mechthildstraße
+05080;Reiterweg
+05085;Rembrandtweg
+05090;Remkersleber Weg
+05095;Remtergang
+05100;Rennebogen
+05105;Rennetal
+05110;Renneweg
+05115;Repkowstraße
+05120;Resedaweg
+05125;Richard-Bodendorf-Straße
+05130;Richard-Dembny-Straße
+05135;Astonstraße
+05140;Richard-Wagner-Straße
+05145;Ringfurther Weg
+05150;Ritterstraße
+05155;Robert-Koch-Straße
+05160;Robert-Mayer-Straße
+05165;Robert-Seitz-Straße
+05170;Rödelstraße
+05175;Rodensleber Weg
+05180;Rogätzer Straße
+05185;Roggengrund
+05190;Rohrgrundstraße
+05195;Rohrlaken-Privatweg
+05200;Rollenhagenstraße
+05205;Röntgenstraße
+05210;Roseggerstraße
+05215;Roseneck
+05220;Rosengrund
+05225;Rosenstraße
+05230;Rosenthalstraße
+05235;Rosenweg
+05240;Rose-Privatweg
+05245;Roßlauer Straße
+05250;Rostocker Straße
+05255;Rotdornweg
+05260;Rötgerstraße
+05270;Rothenseer Straße
+05275;Röthestraße
+05280;Rottersdorfer Straße
+05285;Rotweg
+05290;Rousseaustraße
+05295;Rübeländer Weg
+05300;Rubensweg
+05305;Rückertstraße
+05310;Rungeweg
+05315;Rüsternweg
+05320;Saalestraße
+05325;Saalfelder Straße
+05330;Saarbrücker Straße
+05335;Sachsenring
+05340;Saefkowstraße
+05345;Salbker Chaussee
+05350;Salbker Straße
+05355;Salchauer Straße
+05360;Salvador-Allende-Straße
+05365;Salzmannstraße
+05370;Salzwedeler Straße
+05375;Samsweger Straße
+05380;Sandbreite
+05385;Sandgrubenweg
+05390;Sandtorstraße
+05395;Saturnweg
+05400;Schadowstraße
+05405;Schäferbreite
+05410;Schafwäsche
+05415;Schanzenweg
+05420;Scharnhorstring
+05425;Schartaustraße
+05430;Scheelestraße
+05435;Scheffel-Privatstraße
+05440;Scheidebuschstraße
+05445;Schellheimerplatz
+05450;Schellingstraße
+05455;Schenkendorfstraße
+05460;Schierker Straße
+05465;Schifferstraße
+05470;Schilfbreite
+05475;Schillerstraße
+05480;Schillerweg
+05485;Schinkelstraße
+05490;Schlachthofstraße
+05495;Schlachthofweg
+05500;Schlehenweg
+05505;Schleibnitzer Weg
+05510;Schleiermacherstraße
+05515;Schleifweg
+05520;Schleinufer
+05525;Schleswiger Straße
+05530;Schleusenstraße
+05535;Schmeilstraße
+05540;Schmidtstraße
+05545;Schmiedestraße
+05550;Schnarsleber Straße
+05555;Schnarsleber Weg
+05560;Schneidersgarten
+05565;Schneidlinger Straße
+05570;Schöninger Straße
+05575;Schopenhauerstraße
+05580;Schreberstraße
+05585;Schrotebogen
+05590;Schulzentorstraße
+05595;Schützentorstraße
+05600;Schwalbenweg
+05605;Schwanen-Privatweg
+05610;Schwanstraße
+05615;Schwantesstraße
+05620;Schwarzer Weg
+05630;Schwarzkopfweg
+05635;Schweriner Straße
+05640;Schwiesaustraße
+05645;Bachstraße
+05650;Seestraße
+05655;Seehäuser Straße
+05660;Seilerweg
+05665;Selkeweg
+05670;Semmelweisstraße
+05675;Seumestraße
+05680;Sichelweg
+05685;Sickingenstraße
+05690;Siedefeld-Privatweg
+05695;Siedlerweg
+05700;Schiffshebewerk
+05705;Sieverstorstraße
+05710;Simonstraße
+05715;Sohlener Straße
+05720;Sojusstraße
+05725;Sonnensteig
+05730;Sophienstraße
+05735;Spechtweg
+05740;Speicherstraße
+05745;Sperberweg
+05755;Spielgarten-Privatweg
+05760;Spielhagenstraße
+05765;Sputnikstraße
+05770;Stadtparkstraße
+05775;Stadtweg
+05780;Staßfurter Straße
+05785;Stefan-Zweig-Weg
+05790;Steinbergstraße
+05795;Steinbruchweg
+05800;Steindamm
+05805;Steindamm-Privatweg
+05810;Steinigstraße
+05815;Steinkopfinsel
+05820;Steinlaken-Privatweg
+05830;Stemmerner Straße
+05835;Stendaler Straße
+05840;Stephan-Schütze-Platz
+05845;Stephan-Schütze-Straße
+05850;Kleine Sternstraße
+05855;Steubenallee
+05860;Stichlerweg
+05865;Stieglitzweg
+05870;St.-Michael-Straße
+05875;Stolberger Straße
+05880;Stolzestraße
+05885;Stormstraße
+05890;Schönebecker Straße
+05895;Sternstraße
+05900;St.-Josef-Straße
+05905;Geschwister-Scholl-Straße
+05910;Struvestraße
+05915;Sudenburger Straße
+05920;Sudenburger Wuhne
+05925;Sudermannstraße
+05930;Suderöder Weg
+05935;Südring
+05940;Südstraße
+05945;Sülldorfer Straße
+05950;Sülzeanger
+05955;Sülzeberg
+05960;Sülzlaken-Privatweg
+05965;Sülzwiesen-Privatweg
+05970;Süplinger Weg
+05980;Tannenweg
+05985;Thauberg
+05990;Taubenweg
+05995;1.Teich-Privatweg
+06000;2.Teich-Privatweg
+06005;Teichstraße
+06010;Telemannstraße
+06015;Cracauer Straße
+06025;Thieberg
+06030;Thiemstraße
+06035;Thomas-Mann-Straße
+06040;Thomas-Müntzer-Straße
+06045;Thüringer Straße
+06050;Tischbeinweg
+06055;Tischlergasse
+06060;Tismarstraße
+06065;Toepfferspark
+06070;Torgauer Straße
+06075;Torplatz
+06080;Tränsberg
+06085;Trappenweg
+06090;Treseburger Straße
+06095;Triftweg
+06100;Tucholskystraße
+06110;Tulpengrund
+06115;Tulpenweg
+06120;Turmschanzenstraße
+06125;Turmstraße
+06130;Uchtdorfer Weg
+06135;Uhlandstraße
+06140;Uhlichstraße
+06145;Ulmenweg
+06150;Umfassungsstraße
+06155;Umfassungsweg
+06160;Ummendorfer Straße
+06165;Universitätsplatz
+06170;Unterer Hohenwarsleber Weg
+06175;Unterhorstweg
+06180;Uranusweg
+06185;Vahldorfer Straße
+06190;Vehlitzer Straße
+06200;Venusweg
+06205;Verlorener Grundstein
+06210;Victor-Jara-Straße
+06215;Widderstraße
+06220;Viktor-von-Unruh-Straße
+06225;Virchowstraße
+06230;Vogelbreite
+06235;Völpker Straße
+06240;Wacholdersteg
+06245;Wachtelsteg
+06250;Wahlitzer Weg
+06255;Walbecker Straße
+06260;Waldmeisterweg
+06265;Wallonerberg
+06270;Fürstenwallstraße
+06275;Walmbergsweg
+06280;Othrichstraße
+06285;Apollostraße
+06290;Walter-Strumpf-Straße
+06295;Walther-Rathenau-Straße
+06300;Waltherstraße
+06305;Wanzleber Chaussee
+06310;Wanzleber Straße
+06315;Warschauer Straße
+06320;Wartbergstraße
+06325;Wartburgstraße
+06330;Wassergang
+06335;Wasserkunststraße
+06340;Wasserstraße
+06345;Weberstraße
+06350;Wedringer Straße
+06355;Weferlinger Straße
+06360;Wegeleber Weg
+06365;Weidenstraße
+06370;Weimarer Straße
+06375;Weinbergstraße
+06380;Weinbrennerallee
+06385;Weitlingstraße
+06390;Weizengrund
+06395;Wellenberg
+06400;Wellener Weg
+06405;Welsleber Straße
+06415;Wendefurther Weg
+06420;Wenddorfer Weg
+06425;Werner-Seelenbinder-Straße
+06430;Wernigeröder Straße
+06435;Wespenstieg
+06440;Westernplan
+06445;Westring
+06450;Weststraße
+06455;Wichmannstraße
+06460;Wielandstraße
+06465;Wiener Straße
+06470;Wiesenburger Straße
+06475;Wiesenstraße
+06480;Wiesenweg
+06490;Wilhelm-Klees-Straße
+06495;Wilhelm-Höpfner-Ring
+06500;Wilhelm-Kobelt-Straße
+06505;Wilhelm-Külz-Straße
+06510;Wilhelm-Niemann-Straße
+06515;Ernst-Reuter-Allee
+06520;Wilhelm-Raabe-Straße
+06525;Willi-Bredel-Straße
+06530;Willy-Wolterstorff-Straße
+06535;Winckelmannstraße
+06540;Windmühlen-Privatweg
+06545;Windmühlenstraße
+06550;Windrosen-Privatweg
+06555;Wittenberger Straße
+06560;Witzlebenstraße
+06565;Skorpionstraße
+06570;Waagestraße
+06575;Wolfenbütteler Straße
+06580;Wolframstraße
+06585;Wolfsweg
+06590;Wolmirstedter Straße
+06600;Wörlitzer Straße
+06610;Wormser Platz
+06615;Wostokstraße
+06620;Zackelbergstraße
+06625;Zackmünder Straße
+06630;Zeddenicker Weg
+06635;Zerbster Straße
+06640;Zerrennerstraße
+06645;Zetkinstraße
+06650;Ziegelei-Privatweg
+06655;Ziegeleistraße
+06660;Zielitzer Straße
+06665;Zinckestraße
+06670;Ziolkowskistraße
+06675;Zipkeleber Weg
+06680;Zitadelle
+06685;Zobelweg
+06690;Zollstraße
+06695;Zuckerbusch
+06700;Zuckerstraße
+06705;Zum Waldsee
+06710;Zum Friedensweiler
+06715;Zum Lindenweiler
+06720;Zur Korngrube
+06725;Zur Muttereiche
+06730;Zur Pappel
+06740;Zur Siedlung Reform
+06745;Zur Wassermühle
+06750;Zwischenwerkstraße
+06755;Kornblumenweg
+06760;Kraftwerk-Privatweg
+06765;Olvenstedter Grund
+06770;Ottweiler Straße
+06775;Zipkeleben
+06780;Henning-von-Tresckow-Straße
+06785;Am Schöppensteg
+06790;Barleber Straße
+06810;Zollbrücke
+06815;Askanischer Platz
+06825;Marktbreite
+06830;Olvenstedter Markt
+06845;Torweg
+06850;Sternbogen
+06855;Birkenweiler
+06860;Friedensbrücken
+06865;Jerusalembrücken
+06870;Neue Strombrücke
+06875;Anna-Ebert-Brücke
+06880;Pettenkoferbrücke
+06885;Jerichower Platz
+06890;Werner-von-Siemens-Ring
+06895;Möckerner Straße
+06900;Hohenwender Weg
+06905;Hösebergweg
+06910;Hundorfer Weg
+06915;Wertherstraße
+06920;Tassostraße
+06925;Erlkönigstraße
+06930;Egmontstraße
+06935;Fauststraße
+06940;Sternbrücke
+06945;Hohepfortewall
+06950;Burgenser Weg
+06955;Am Hansehafen
+06960;Wiedersdorfer Straße
+06965;Am Unterhorstweg
+06970;Hansapark
+06975;Seepark
+06980;Sonnenallee
+06985;Stresemannstraße
+06990;Großer Werder
+06995;Am Großen Silberberg
+07000;Nelkengrund
+07005;Veilchengrund
+07010;Hettstedter Straße
+07015;Ottersleber Weg
+07020;Silberbergweg
+07025;Wisninger Wuhne
+07030;Bülstringer Straße
+07035;Gutensweger Straße
+07040;Altenhäuser Straße
+07045;Hasenpflugstraße
+07050;Tessenowstraße
+07055;Gerwischer Straße
+07060;Sülzborn
+07065;Dehmbergstraße
+07070;Rothenseer Weg
+07075;Rautenbreite
+07080;Zaunkönigstraße
+07085;Rotkehlchenstraße
+07090;Sperlingweg
+07095;Storchenweg
+07100;Ochtmersleber Weg
+07105;Werner-Priegnitz-Straße
+07110;Atzendorfer Straße
+07115;Unseburger Straße
+07120;Schönebecker Chaussee
+07125;Hektorweg
+07130;Junoweg
+07135;Pallasweg
+07140;Robinienstraße
+07145;Am Schraderhof
+07150;Hohendodeleber Chaussee
+07155;Am Bördegarten
+07160;Matthiasstraße
+07165;Jutta-Balk-Straße
+07170;Am Birnengarten
+07175;An den Rennwiesen
+07180;Michael-Lotter-Straße
+07190;Burger Straße
+07195;Ihleburger Straße
+07200;Löderburger Straße
+07205;Westeregelner Straße
+07210;Am Pfahlberg
+07215;Zum Wiesgen
+07220;Lentkestraße
+07225;Waldluftweg
+07230;Hakeborner Straße
+07235;Am Mittellandkanal
+07240;An der Klinke
+07245;Obstgasse
+07250;Auf den Höhen
+07255;Lavendelweg
+07260;Rosmarinweg
+07265;Melissenweg
+07270;Ulrichplatz
+07275;Goldschmiedebrücke
+07280;Masurenring
+07285;Nomi-Rubel-Straße
+07290;Johann-Gottlob-Nathusius-Ring
+07295;Am Brückbusch
+07300;Am Mittelteich
+07305;Külzauer Straße
+07310;Grabower Straße
+07315;Parchauer Straße
+07320;Wörmlitzer Straße
+07325;Distelweg
+07330;Eimersleber Weg
+07335;Bisamweg
+07340;Otto-Lilienthal-Straße
+07345;Apfelstieg
+07350;Walnußweg
+07355;Aprikosenweg
+07360;Pfirsichweg
+07365;Kerbelbreite
+07370;Büdener Straße
+07375;Theodor-Kozlowski-Straße
+07380;Meininger Weg
+07385;Brücke am Wasserfall
+07390;Rademacherweg
+07395;Platz des 17.Juni
+07400;Angersteg
+07405;Herrenkrugsteg
+07410;Zum Sauren Tal
+07415;Auf der Grauwacke
+07420;Plachwitzer Weg
+07425;Emil-Rungwerth-Weg
+07430;Rübengrund
+07435;Felsengrund
+07440;St.-Laurentius-Weg
+07445;Stegelitzer Straße
+07450;Tucheimer Straße
+07455;Friedensauer Weg
+07460;Erich-Kästner-Straße
+07465;Hans-Fallada-Weg
+07470;An der Alten Synagoge
+07475;Etgersleber Weg
+07480;Am Zweigkanal
+07485;An der Ölmühle
+07490;Europaring
+07495;Tangerhütter Weg
+07500;Möwenweg
+07505;Ölweide
+07510;Himbeerweg
+07515;St.-Maria-Hilf-Straße
+07520;Wilhelm-Diek-Straße
+07525;St.-Stephani-Straße
+07530;Albert-Fischer-Straße
+07535;An den Barroseen
+07540;Allerstraße
+07545;Sauerampferweg
+07550;Salbeiweg
+07555;Zur Schleuse
+07560;Paul-Ecke-Straße
+07565;Leineweberstraße
+07570;Mälzerstraße
+07575;Am Sonnenanger
+07580;Albinmüllerweg
+07585;Rettelbuschweg
+07590;Oelzeweg
+07595;Behneweg
+07600;Stockmannweg
+07605;Schawinskyweg
+07610;Heiseweg
+07615;Dungertweg
+07620;Erich-Brose-Weg
+07625;Breslauer Weg
+07630;Stettiner Weg
+07635;An der Darre
+07640;Wolmirsleber Weg
+07645;Tarthuner Weg
+07650;Borner Weg
+07655;Schwaneberger Weg
+07660;Plötzkyer Straße
+07665;Zschokkestraße
+07670;Mergelweg
+07675;Brigitte-Reimann-Straße
+07680;Schermcker Weg
+07685;Bachstelzenweg
+07690;Rohrdommelweg
+07695;Blesshuhnweg
+07700;An der Wendeschleife
+07705;An den Gärten
+07710;Bäckergasse
+07715;Beyendorfer Dorfstraße
+07720;Kleiner Rosenweg
+07725;Kreisstraße
+07730;Obere Siedlung
+07735;Schulstraße
+07740;Sülzeblick
+07745;Untere Siedlung
+07750;Veilchenweg
+07755;Wiesengrund
+07760;Zum Bahnhof
+07765;Akazienweg
+07770;Am Kirschberg
+07775;An der Sülze
+07780;Dodendorfer Weg
+07785;Dorfplatz
+07790;Einbahnstraße
+07795;Froschgrund
+07800;Kirchplatz
+07805;Kleiner Ahornweg
+07810;Kleiner Birkenweg
+07815;Lindenweg
+07820;Siedlung
+07825;Sohlener Hauptstraße
+07830;Sohlener Mittelstraße
+07835;Sohlener Mühlenweg
+07840;Unter der Wiesche
+07845;Welsleber Weg
+07850;Karlsbader Weg
+07855;Egerländer Weg
+07860;Albert-Uffenheimer-Platz
+07865;Rote Mühle
+07870;Zum Anker
+07875;Suhler Straße
+07880;Oberhofer Straße
+07885;Zum Bördepark
+07890;Zur Tonkuhle
+07895;Kalksteinweg
+07900;Granitweg
+07905;Roteisenweg
+07910;Basaltweg
+07915;Sandsteinweg
+07920;Arthur-Ruppin-Straße
+07925;Adolph-Kolping-Platz
+07930;Hopfenpark
+07935;Ludwig-Thoma-Straße
+07940;Ginsterbreite
+07945;Zur Viehbörse
+07950;Zum Handelshof
+07955;Johann-Gottlieb-Schoch-Straße
+07960;Herbert-Stauch-Straße
+07965;Mirabellenweg
+07970;Dr.-Weißler-Weg
+07975;Nashvillepromenade
+07980;Kürbisweg
+07985;Erdbeerweg
+07990;Hellasweg
+07995;Poseidonweg
+08000;Gustav-Ricker-Straße
+08005;Doctor-Eisenbart-Ring
+08010;Maria-Neide-Straße
+08015;Maikäferweg
+08020;Calenberger Straße
+08025;An der Nachtweide
+08030;Am Kanal
+08035;Am See
+08040;Breite Straße
+08045;Am Siel
+08050;Hauptstraße
+08055;Seehof
+08060;Zur Mühle
+08065;Schloßstraße
+08070;Zur Kreuzhorst
+08075;Randauer Dorfstraße
+08080;Müllerbreite
+08085;Waldstraße
+08090;Zur Alten Elbe
+08095;An der Schloßmauer
+08100;Nixeweg
+08105;Zum Engel
+08110;Am Bäckerstieg
+08115;An der Autobahn
+08120;Till-Eulenspiegel-Ring
+08125;Fritze-Bollmann-Straße
+08130;Rolf-Herricht-Straße
+08135;Krokusweg
+08140;Am Sülzehafen
+08145;Siedlung Baumschule
+08150;Scherbenwinkel
+08155;Keuperwinkel
+08160;Zechsteinring
+08165;Willy-Brandt-Platz
+08170;Konrad-Adenauer-Platz
+08175;Stephansbrücke
+08180;Knochenhauerufer
+08185;Johanniskirchhof
+08190;Prälatenstraße
+08195;Zum Schroteblick
+08200;Joseph-von-Fraunhofer-Straße
+08205;Lessingplatz
+08210;Wittenberger Platz
+08215;Sarajevo-Ufer
+08220;Dohlenstieg
+08225;Messeplatz Max Wille
+08230;Pirolweg
+08235;Niels-Bohr-Straße
+08240;Werner-Heisenberg-Straße
+08245;Charles-de-Gaulle-Platz
+08250;Martinsplatz
+08255;Am Eckardtshof
+08260;Heinrich-Mundlos-Ring
+08265;Georg-Becker-Straße
+08270;Klötzer Weg
+08275;Miester Weg
+08280;Eibenweg
+08285;Schwertfegergasse
+08290;Bötticherplatz
+08295;Mühlenfeld-Privatweg
+08300;Christa-Johannsen-Straße
+08305;Ilse-Voigt-Straße
+08310;Willy-Rosen-Straße
+08315;Adele-Elkan-Straße
+08320;Seeweg
+08325;Barschweg
+08330;Hechtweg
+08335;Schafanger
+08340;Wilhelm-Linke-Straße
+08345;Thiemplatz
+08350;Erhard-Hübener-Platz
+08355;Gustav-Trombke-Straße
+08360;Harsdorfer Bierweg
+08365;Edithawinkel
+08370;Seehäuser Weg
+08375;Otto-Hahn-Straße
+08380;Hamburger Damm
+08385;An der Enckekaserne
+08390;Sanddornweg
+08395;Zwetschgenweg
+08400;Günter-Särchen-Straße
+08405;Wilhelmstädter Platz
+08410;Königsweg
+08415;Prämonstratenserberg
+08420;Am Flora-Park
+08425;An der Buckauer Fähre
+08430;Zooallee
+08435;Im Elbbahnhof
+08440;Zum Domfelsen
+08445;Ibisweg
+08450;Hohe Wiese
+08455;Kormoranweg
+08460;Niendorfer Grund
+08465;Zur Hubbrücke
+08470;Zum Rotehornblick
+08475;Martin-Luther-Hain
+08480;Heinz-Krügel-Platz
+08485;Platz am Elbbahnhof
+08490;Platz der Begegnung
+08495;Am Buckauer Wasserwerk
+08500;Am Wasserwerksgraben
+08505;Am Pumpenhaus
+08510;Dükerweg
+08515;Brunnenweg
+08520;Martin-Luther-Platz
+08525;Klaus-Miesner-Platz
+08530;Tangermünder Straße
+08535;Blütengrund
+08540;Heidelbeerweg
+08545;An der Graube
+08550;Zum Mühlenwerk
+08555;Zur Kirschblüte
+08560;Siriusweg
+08565;Am Alten Gasometer
+08570;Haselnussweg
+08575;Alte Diamant Brauerei
+08580;Jasminweg
+08585;Agnetenplatz
+08590;Ivenroder Weg
+08595;Beyendorfer Privatweg
+08600;Johannes-Kollwitz-Weg
+08605;Alte Zuckerfabrik
+08610;Bierer Weg
+08615;Unter der Georgshöhe
+08620;An der Kanonenbahn
+08625;Buschweg
+08630;Eiskellerplatz
+08635;Milanweg
+08640;Ede-und-Unku-Weg
+08645;Torsten-Lamprecht-Weg
+08650;Löwenzahnweg
+08655;Schafgarbenweg
+08660;Huflattichweg
+08665;Düppler Grund
+08670;Heinrich-Lange-Grund
+08675;Karen-Fredersdorf-Straße
+08680;Henny-Porten-Straße
+08685;Reinhard-Lakomy-Straße
+08690;Lindenhof
+08695;Bei Hohmanns
+08700;Bärplatz
+08705;Kosmos-Promenade
+08710;Kiesweg
+08715;Steinweg
+08720;Felsweg
+08725;Am Schrotepark
+08730;Griebener Weg
+08735;Langer Heinrich
+08740;Zur Pferdekoppel
+08745;Magnus-Hirschfeld-Weg
+08750;Bettina-von-Arnim-Straße
+08755;Hans-Haupt-Weg
+08760;Sommersdorfer Weg
+08765;Wolfgang-Emmrich-Weg
+08770;Petersilienberg
+08775;Neupresterweg
+08780;Zum Sandkolk
+08785;Rothenseer Privatweg
+08790;Rothenseer Gartenweg
+08795;Scheyringstraße
+08800;Dinkelgrund
+08810;Reinhard-Mannesmann-Weg
+08815;Mindenstraße
+08820;Arnstädter Straße
+08830;Vor der Turmschanze
+08835;Kaunasweg
+08840;Vilniusweg
+08845;Lummenweg
+08850;Bördeachtel
+08855;Dillweg
+08860;Fenchelweg
+08865;Thymianweg
+08870;Minzeweg
+08875;Bärlauchweg
+08880;Lorbeerweg
+08885;Kresseweg
+08890;Radomer Straße
+08895;Stralsunder Straße
+08900;Am Blauen Bock
+08905;Paul-Ehrlich-Straße
+08910;Düppler Mühlenplatz
+08915;Greifswalder Straße
+08920;Kavalier Scharnhorst
+08930;Schopenstraße
+08935;Katharinenkirchhof 
+09000;Greifenwerder
+09005;Prinzenwiese
+09010;Tränkeweg
+09015;Biesengrund
+09020;Calenberger Dorfstraße
+09025;An der Halberstädter Chaussee
+09030;Carl-Krayl-Ring
+09035;Heinrich-Schmutze-Straße
+09040;Moosgrund
+09045;Eisvogelstraße
+09055;Am Costerberg
+09060;Gustl-Möller-Straße
+09065;Carnotstraße
+09075;Am Stadion
+09080;Körbelitzer Straße
+09085;Königsborner Straße
+09090;An der Elbaue

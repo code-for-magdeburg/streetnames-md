@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
+    "geodesy": "^2.2.0",
     "geojson": "^0.5.0",
     "osm-read": "^0.7.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
   }
 }
